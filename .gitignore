@@ -1,0 +1,8 @@
+#text data files
+text_messages.csv
+sms-20180831152327.xml
+wedding_vows.txt
+
+#jpgs and pngs
+*.jpg
+*.png
